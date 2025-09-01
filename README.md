@@ -9,7 +9,11 @@
   <a href="https://www.instagram.com/italo_flavio1">
      <img src="https://skillicons.dev/icons?i=instagram" height="60" alt="linkedin logo" />
 </a>
-  <img src="https://skillicons.dev/icons?i=cs,css,discord,gmail,html,js,java,linux,vscode" height="60" />
+<a href="mailto:italoct2@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="gmail logo" />
+</a>
+  
+  <img src="https://skillicons.dev/icons?i=cs,css,discord,html,js,java,linux,vscode" height="60" />
   
 </div>
 
