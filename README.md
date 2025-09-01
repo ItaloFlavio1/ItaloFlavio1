@@ -25,9 +25,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/now-playing?theme=dark" alt="spotify now playing" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ItaloFlavio1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
