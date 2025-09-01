@@ -12,8 +12,11 @@
 <a href="mailto:italoct2@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="gmail logo" />
 </a>
-  
-  <img src="https://skillicons.dev/icons?i=cs,css,discord,html,js,java,linux,vscode" height="60" />
+
+  <a href="https://discord.gg/sQD9W4kR">
+  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
+</a>
+  <img src="https://skillicons.dev/icons?i=cs,css,html,js,java,linux,vscode" height="60" />
   
 </div>
 
@@ -23,7 +26,10 @@
    <a href="https://www.linkedin.com/in/italo-augusto-9b791b233">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
     </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <a href="https://discord.gg/sQD9W4kR">
+ <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+</a>
+  
   
 </div>
 
