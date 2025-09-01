@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil">
+  <a href="www.linkedin.com/in/italo-augusto-9b791b233">
   <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo" />
 </a>
   <img src="https://skillicons.dev/icons?i=cs,css,discord,gmail,html,instagram,js,java,linux,vscode" height="60" />
