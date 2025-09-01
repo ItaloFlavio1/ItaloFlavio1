@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,css,html,js,java,linux,vscode" height="60" alt="skills icons" />
+  <img src="https://skillicons.dev/icons?i=cs,css,html,js,java,python,linux,vscode" height="60" alt="skills icons" />
 </div>
 
 ---
