@@ -3,6 +3,9 @@
 ###
 
 <div align="center">
+
+<img src="https://www.biglinux.com.br/wp-content/uploads/2022/04/icon-logo-biglinux.png" height="60" alt="linkedin logo" />
+  
   <a href="https://www.linkedin.com/in/italo-augusto-9b791b233">
   <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo" />
 </a>
