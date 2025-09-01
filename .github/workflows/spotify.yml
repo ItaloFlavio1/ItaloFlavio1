@@ -1,0 +1,21 @@
+name: Update Spotify Card
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # runs every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update Spotify card
+        uses: keiyin/now-playing-on-github@master
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          mode: now-playing
+          output_file: spotify-card.svg
