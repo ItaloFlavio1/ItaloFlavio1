@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-<div align="center">
   <img src="https://skillicons.dev/icons?i=cs,css,discord,gmail,html,instagram,js,java,linkedin,linux,vscode" height="60" />
-</div>
   
 </div>
 
