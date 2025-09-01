@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/italo-augusto-9b791b233">
+  <a href="https://www.linkedin.com/in/italo-augusto-9b791b233">
   <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo" />
 </a>
   <img src="https://skillicons.dev/icons?i=cs,css,discord,gmail,html,instagram,js,java,linux,vscode" height="60" />
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-    <a href="www.linkedin.com/in/italo-augusto-9b791b233">
+   <a href="https://www.linkedin.com/in/italo-augusto-9b791b233">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
     </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
