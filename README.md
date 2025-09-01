@@ -3,7 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,css,discord,gmail,html,instagram,js,java,linkedin,linux,vscode" height="60" />
+  <a href="https://www.linkedin.com/in/seu-perfil">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo" />
+</a>
+  <img src="https://skillicons.dev/icons?i=cs,css,discord,gmail,html,instagram,js,java,linux,vscode" height="60" />
   
 </div>
 
