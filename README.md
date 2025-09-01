@@ -17,7 +17,8 @@
   <a href="https://discord.gg/sQD9W4kR">
   <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
 </a>
-  
+  <img src="https://skillicons.dev/icons?i=cs,css,html,js,java,linux,vscode" height="60" />
+  <img width="12" />
 </div>
 
 ###
