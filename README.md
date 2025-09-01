@@ -15,8 +15,6 @@
   <a href="https://discord.gg/sQD9W4kR">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-
-  <img https://raw.githubusercontent.com/ItaloFlavio1/ItaloFlavio1/main/spotify-card.svg />
 </div>
 
 ###
@@ -27,6 +25,9 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ItaloFlavio1/ItaloFlavio1/main/spotify-card.svg" alt="spotify now playing" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ItaloFlavio1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
