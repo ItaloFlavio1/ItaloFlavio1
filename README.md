@@ -15,6 +15,8 @@
   <a href="https://discord.gg/sQD9W4kR">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
+
+  <img https://raw.githubusercontent.com/ItaloFlavio1/ItaloFlavio1/main/spotify-card.svg />
 </div>
 
 ###
