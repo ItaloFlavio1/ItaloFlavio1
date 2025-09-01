@@ -18,9 +18,11 @@
   <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
 </a>
 
-<img src="http://googleusercontent.com/image_collection/image_retrieval/9421374525705954886_0" alt="BigLinux logo" height="60" />
- 
-  <img src="https://skillicons.dev/icons?i=cs,css,html,js,java,linux,vscode" height="60" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,css,discord,gmail,html,instagram,js,java,linkedin,linux,vscode" height="60" />
+  <img width="12" />
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/9421374525705954886_0" alt="BigLinux logo" height="60" />
+</div>
   
 </div>
 
